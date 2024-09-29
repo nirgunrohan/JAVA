@@ -1,4 +1,3 @@
-# Java programs completed during Semester IV
 
 # Experiment 1  
 Program to illustrate Datatypes.
